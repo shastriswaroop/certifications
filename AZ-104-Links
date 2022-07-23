@@ -1,0 +1,93 @@
+Module 1
+Self Paced MS Learning Paths :-
+Configure Azure Active Directory-
+https://docs.microsoft.com/en-us/learn/modules/configure-azure-active-directory/
+Configure user and group accounts-
+https://docs.microsoft.com/en-us/learn/modules/configure-user-group-accounts/
+
+Module 2
+
+Self Paced MS Learning Paths :-
+Configure Azure policy -
+https://docs.microsoft.com/en-us/learn/modules/configure-azure-policy/
+Configure role-based access control -
+https://docs.microsoft.com/en-us/learn/modules/configure-role-based-access-control/
+
+
+Module 3
+Self Paced MS Learning Paths :-
+https://docs.microsoft.com/en-us/learn/modules/configure-azure-resources-tools/
+https://docs.microsoft.com/en-us/learn/modules/use-azure-resource-manager/
+https://docs.microsoft.com/en-us/learn/modules/configure-resources-arm-templates/
+
+Module 4
+https://docs.microsoft.com/en-us/learn/modules/configure-virtual-networks/
+https://docs.microsoft.com/en-us/learn/modules/configure-network-security-groups/
+https://docs.microsoft.com/en-us/learn/modules/configure-azure-firewall/
+https://docs.microsoft.com/en-us/learn/modules/configure-azure-dns/
+
+Module 5
+https://docs.microsoft.com/en-us/learn/modules/configure-vnet-peering/
+https://docs.microsoft.com/en-us/learn/modules/configure-vpn-gateway/
+https://docs.microsoft.com/en-us/learn/modules/configure-expressroute-virtual-wan/
+
+Module 6
+https://docs.microsoft.com/en-us/learn/modules/configure-network-routing-endpoints/
+https://docs.microsoft.com/en-us/learn/modules/configure-azure-load-balancer/
+https://docs.microsoft.com/en-us/learn/modules/configure-azure-application-gateway/
+
+Module 7
+https://docs.microsoft.com/en-us/learn/modules/configure-storage-accounts/
+https://docs.microsoft.com/en-us/learn/modules/configure-blob-storage/
+https://docs.microsoft.com/en-us/learn/modules/configure-storage-security/
+
+
+Module 8
+https://docs.microsoft.com/en-us/learn/modules/configure-virtual-machines/
+https://docs.microsoft.com/en-us/learn/modules/configure-virtual-machine-availability/
+https://docs.microsoft.com/en-us/learn/modules/configure-virtual-machine-extensions/
+
+Module 9
+https://docs.microsoft.com/en-us/learn/modules/configure-app-service-plans/
+https://docs.microsoft.com/en-us/learn/modules/configure-azure-app-services/
+https://docs.microsoft.com/en-us/learn/modules/configure-azure-container-instances/
+https://docs.microsoft.com/en-us/learn/modules/configure-azure-kubernetes-service/
+
+Module 10
+https://docs.microsoft.com/en-us/learn/modules/configure-file-folder-backups/
+
+Module 11
+https://docs.microsoft.com/en-us/learn/modules/configure-azure-monitor/
+https://docs.microsoft.com/en-us/learn/modules/configure-azure-alerts/
+https://docs.microsoft.com/en-us/learn/modules/configure-log-analytics/
+https://docs.microsoft.com/en-us/learn/modules/configure-network-watcher/
+
+
+Extra Labs Home Work:-
+https://wiproblr2011.blob.core.windows.net/az303/HybridConn/01_Site-to-Site.zip
+https://wiproblr2011.blob.core.windows.net/az303/HybridConn/02_Point-to-Site.zip
+https://wiproblr2011.blob.core.windows.net/deloitte/vm/02_Create_Install_LAMP_on_Virtual_Machine_Ubuntu.docx
+https://wiproblr2011.blob.core.windows.net/deloitte/vm/CreateLinuxVM_Configure_Apache_Using_CloudShell.docx
+https://wiproblr2011.blob.core.windows.net/az303/armtemplate/Lab_Deploy_WebApp_ARM_Template_Portal.docx
+https://wiproblr2011.blob.core.windows.net/cognizant/day2/Network Watcher Labs.zip
+https://wiproblr2011.blob.core.windows.net/cognizant/day2/Log Analytics Demo.docx
+https://wiproblr2011.blob.core.windows.net/cognizant/day2/AZ-100T01 _ Module 3 - Monitoring and Diagnostics - go deploy_files.zip
+https://wiproblr2011.blob.core.windows.net/cognizant/day2/AZ-100T01 _ Module 4 - Log Analytics - go deploy_files.zip
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Exam AZ-104: Microsoft Azure Administrator
+https://docs.microsoft.com/en-us/certifications/exams/az-104
+
+Exam Pattern:- Duration 150 to 180 mins
+
+Number of Questions 50-55 (Multiple Choice Questions)
+Passing Score 700 / 1000
+
+Information URL:-
+https://docs.microsoft.com/en-us/learn/certifications/online-exams
+https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies
+
+Sample Model Questions for Reference :-
+https://wiproblr2011.blob.core.windows.net/az104/exam/AZ-104 ExamTop_1-100.pdf
